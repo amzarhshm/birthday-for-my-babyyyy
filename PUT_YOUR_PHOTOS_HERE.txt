@@ -1,0 +1,2 @@
+Add three photos here and name them photo1.jpg, photo2.jpg, and photo3.jpg.
+Use JPG images for easiest setup. Keep these filenames or edit index.html to match yours.
